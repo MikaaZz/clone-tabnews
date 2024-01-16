@@ -1,1 +1,1 @@
-# clone-tabnews
+# tecnology-news
